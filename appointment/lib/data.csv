@@ -1,0 +1,30 @@
+ID,Name,Timezone,Day,AvailableAt,AvailableUntil,Status
+1,Christy Schumm,(GMT-06:00) America/North_Dakota/New_Salem,Monday,7:00PM,8:30PM,1
+2,Christy Schumm,(GMT-06:00) America/North_Dakota/New_Salem,Monday,9:00AM,5:30PM,1
+3,Christy Schumm,(GMT-06:00) America/North_Dakota/New_Salem,Tuesday,8:00AM,4:00PM,1
+4,Christy Schumm,(GMT-06:00) America/North_Dakota/New_Salem,Thursday,9:00AM,4:00PM,1
+5,Christy Schumm,(GMT-06:00) America/North_Dakota/New_Salem,Friday,7:00AM,2:00PM,1
+6,Natalia Stanton Jr.,(GMT-06:00) Central Time (US & Canada),Tuesday,8:00AM,10:00AM,1
+7,Natalia Stanton Jr.,(GMT-06:00) Central Time (US & Canada),Wednesday,11:00AM,6:00PM,1
+8,Natalia Stanton Jr.,(GMT-06:00) Central Time (US & Canada),Saturday,9:00AM,3:00PM,1
+9,Natalia Stanton Jr.,(GMT-06:00) Central Time (US & Canada),Sunday,8:00AM,3:00PM,1
+10,Nola Murazik V,(GMT-09:00) America/Yakutat,Monday,8:00AM,10:00AM,1
+11,Nola Murazik V,(GMT-09:00) America/Yakutat,Tuesday,11:00AM,1:00PM,1
+12,Nola Murazik V,(GMT-09:00) America/Yakutat,Wednesday,8:00AM,10:00AM,1
+13,Nola Murazik V,(GMT-09:00) America/Yakutat,Saturday,8:00AM,11:00AM,1
+14,Nola Murazik V,(GMT-09:00) America/Yakutat,Sunday,7:00AM,9:00AM,1
+15,Elyssa O'Kon,(GMT-06:00) Central Time (US & Canada),Monday,9:00AM,3:00PM,1
+16,Elyssa O'Kon,(GMT-06:00) Central Time (US & Canada),Tuesday,6:00AM,1:00PM,1
+17,Elyssa O'Kon,(GMT-06:00) Central Time (US & Canada),Wednesday,6:00AM,11:00AM,1
+18,Elyssa O'Kon,(GMT-06:00) Central Time (US & Canada),Friday,8:00AM,12:00PM,1
+19,Elyssa O'Kon,(GMT-06:00) Central Time (US & Canada),Saturday,9:00AM,4:00PM,1
+20,Elyssa O'Kon,(GMT-06:00) Central Time (US & Canada),Sunday,8:00AM,10:00AM,1
+21,Dr. Geovany Keebler,(GMT-06:00) Central Time (US & Canada),Thursday,7:00AM,2:00PM,1
+22,Dr. Geovany Keebler,(GMT-06:00) Central Time (US & Canada),Thursday,3:00PM,5:00PM,1
+23,Christy Schumm,(GMT-06:00) America/North_Dakota/New_Salem,Monday,5:30PM,6:30PM,1
+24,Christy Schumm,(GMT-06:00) America/North_Dakota/New_Salem,Monday,6:30PM,7:30PM,1
+25,Christy Schumm,(GMT-06:00) America/North_Dakota/New_Salem,Saturday,6:00AM,9:00AM,3
+26,Christy Schumm,(GMT-06:00) America/North_Dakota/New_Salem,Wednesday,7:00AM,10:30AM,3
+28,Elyssa O'Kon,(GMT+07:00) Asia/Jakarta,Monday,7:00PM,10:30PM,3
+29,Elyssa O'Kon,(GMT+07:00) Asia/Jakarta,Saturday,6:00AM,9:00AM,2
+27,Elyssa O'Kon,(GMT-06:00) Central Time (US & Canada),Saturday,6:00AM,9:00AM,2
